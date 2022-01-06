@@ -17,4 +17,4 @@ Any Issues / Help Regarding Setup, Contact Through the telegram Group
 ##### without this the Main GIndex wont work, Both should run simultaneously.
 
 #### Deploy to Heroku Directly:
-![Deploy](https://www.herokucdn.com/deploy/button.svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
